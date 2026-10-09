@@ -1,0 +1,11 @@
+# ビルド・実行環境の不要ファイル
+*.class
+bin/
+target/
+.idea/
+*.iml
+.vscode/
+
+# 個人設定やパスワードが含まれるファイル
+lockfile
+db_config.properties
