@@ -1,0 +1,1 @@
+SELECT * FROM lol_app.matchup_notes;
